@@ -1,4 +1,4 @@
-gunn-math-circle
+math-circle
 ================
 
 Gunn Math Circle
