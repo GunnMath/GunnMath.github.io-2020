@@ -281,14 +281,11 @@ form.head {
 	text-align: center;
 }
 
-/*
-
 // only uncomment if something wack goes on with the table
 
 .hokay .hokay tbody tr, .hokay tbody td {
 	border: 1px solid black;
 }
-*/
 
 .col-lg-4 {
 	width: 100%;
