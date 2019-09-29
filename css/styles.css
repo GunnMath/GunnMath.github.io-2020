@@ -70,7 +70,7 @@ a:after {
 	transition: color 0.1s ease-in, background 0.1s ease-in;
 }
 
-hr {
+ hr {
 	display: block;
 	height: 1px;
 	border: 0;
@@ -92,7 +92,7 @@ hr {
 	color: white;
 }
 
-.navbar a {
+.navbar a{
 	color: white!important;
 }
 
@@ -281,8 +281,8 @@ form.head {
 	text-align: center;
 }
 
-// only uncomment if something wack goes on with the table
 /*
+// only uncomment if something wack goes on with the table
 .hokay .hokay tbody tr, .hokay tbody td {
 	border: 1px solid black;
 }
@@ -291,3 +291,27 @@ form.head {
 .col-lg-4 {
 	width: 100%;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
