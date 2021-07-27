@@ -43,6 +43,14 @@ export default {
   pwa: {
     manifest: {
       lang: 'en'
+    },
+    icon: {
+
+    },
+    meta: {
+      name: 'Gunn Math Circle',
+      theme_color: '#BD1A18',
+      description: 'Learn about Gunn Math Circle\'s events, officers, contests, and more!'
     }
   },
 
