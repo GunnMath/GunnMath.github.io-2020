@@ -1,12 +1,11 @@
-gunn-math-circle
-================
+# STATIC
 
-Gunn Math Circle
-----------------
+**This directory is not required, you can delete it if you don't want to use it.**
 
-We seek to promote an appreciation and understanding of math beyond the typical high school curriculum by hosting weekly talks, in-house contests, games, and guest speakers. We also help students prepare for and participate in many contests throughout the school year.
+This directory contains your static files.
+Each file inside this directory is mapped to `/`.
+Thus you'd want to delete this README.md before deploying to production.
 
-License
--------
+Example: `/static/robots.txt` is mapped as `/robots.txt`.
 
-MIT License.
+More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/assets#static).
